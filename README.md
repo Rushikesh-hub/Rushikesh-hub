@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rushikesh-hub&label=Profile%20Views&color=0e75b6&style=flat)  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rushikesh-hub)  
 
-🚀 **AI Software Developer | ML Engineer | Data Engineer | Data Scientist**  
+🚀 **Aspiring Data Scientist**  
 🎓 B.Tech CSE student at **IIIT Raichur (2021–2025)**  
 💡 Passionate about building **AI-powered intelligent solutions** with strong foundations in **ML/DL, Data Science, and Full-Stack Development**.  
 
