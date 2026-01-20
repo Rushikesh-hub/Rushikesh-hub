@@ -7,7 +7,7 @@
 🎓 B.Tech CSE student at **IIIT Raichur (2021–2025)**  
 💡 Passionate about building **AI-powered intelligent solutions** with strong foundations in **ML/DL, Data Science, and Full-Stack Development**.  
 
-📍 Karnataka, India | 🌐 [Portfolio Website](https://rushikeshmuneshwar.in)  
+📍 Maharashtra, India | 🌐 [Portfolio Website](https://rushikeshmuneshwar.in)  
 📧 [Email Me](mailto:rushikeshmuneshwar2@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/rushikesh-muneshwar)  
 
 ---
