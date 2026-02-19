@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rushikesh Muneshwar  
+# 👋 Hi, I'm Rushikesh Muneshwar  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rushikesh-hub&label=Profile%20Views&color=0e75b6&style=flat)  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Rushikesh-hub)  
