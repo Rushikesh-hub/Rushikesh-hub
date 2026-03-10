@@ -51,8 +51,6 @@ Classical ML/DL  ──►  NLP & Embeddings  ──►  RAG Systems  ──► 
 
 📌 **Techniques:** Prompt Engineering (few-shot, CoT, role prompting) · RAG Pipelines · Chunking Strategies · Dense & Hybrid Retrieval · Re-ranking · Context Compression · LLM-as-Judge Evaluation · Hallucination Mitigation · Instruction-Tuned Models · Text-to-Image (Diffusers)
 
-### 🤖 Agentic AI & Multi-Agent Systems
-📌 **Techniques:** ReAct Agent Pattern · Plan-and-Execute Loops · Tool-Augmented Agents · Long-Term Memory (Vector DB) · Guardrails & Safety Checks · Rate Limiting · Human-in-the-Loop Orchestration · Multi-Agent Coordination · Prompt Injection Defense · PII Masking
 
 ### 🔍 Embeddings & Vector Search
 ![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logo=meta&logoColor=white)
@@ -340,12 +338,11 @@ Two-stage NLP classification pipeline:
 
 ## 🏢 Professional Experience
 
-**AI/ML Engineering Intern — Centre for Development of Advanced Computing (CDAC), Bangalore**
+**Intern — Centre for Development of Advanced Computing (CDAC), Bangalore**
 *(Mar 2025 – Present)*
 
 - Architected an **IoT Device Management System** using FastAPI, React.js, PostgreSQL, and Docker
 - Served as **Lab Incharge**, managing technical operations and support for 75+ students
-- Collaborated on enterprise-grade ML/DL solutions and production deployment workflows
 
 ---
 
