@@ -204,48 +204,6 @@ Two-stage NLP classification pipeline:
 
 ---
 
-### 🧬 [GenAI\_AgenticAI\_Projects](https://github.com/Rushikesh-hub/GenAI_AgenticAI_Projects)
-*Advanced GenAI Engineering · RAG · Hybrid Search · Evaluation · Context Compression · 13+ Commits*
-
-> Production-focused GenAI components addressing the hardest LLM engineering challenges: retrieval quality, evaluation reliability, latency, and cost.
-
-**Skills demonstrated:** RAG architecture · Hybrid retrieval · LLM evaluation frameworks · Context window optimization · Prompt engineering · Embedding quality benchmarking
-
-| Module | Problem It Solves | Key Techniques |
-|---|---|---|
-| **📚 RAG QA System** | End-to-end document question-answering | Chunking strategies · FAISS · SentenceTransformers · LLM generation |
-| **🔍 Hybrid Search** | Closes the recall gap of pure dense retrieval | Dense (FAISS) + Sparse (BM25) fusion · Score normalization · Re-ranking |
-| **📊 RAG Evaluator** | Automated quality measurement without human labels | Faithfulness · Answer relevancy · Context precision · LLM-as-judge scoring |
-| **🗜️ Context Compressor** | Reduces LLM token costs 40–60% without quality loss | Sentence relevance scoring · Extractive compression · Passage pruning |
-| **🎮 Prompt Playground** | Structured experimentation lab for prompt strategies | Few-shot · Chain-of-thought · Role prompting · Output formatting templates |
-
----
-
-### 🏗️ [Genai-Agentic-Engineering](https://github.com/Rushikesh-hub/Genai-Agentic-Engineering)
-*Agentic Systems · ReAct Pattern · Multi-Step Reasoning · Architecture Docs · 12+ Commits*
-
-> Deep exploration of **agentic AI architectures** — systems that reason, plan, retrieve, act with tools, and reflect on their outputs.
-
-**Skills demonstrated:** Agent loop design · Tool-augmented reasoning · Memory architectures · Agentic evaluation · Production safety patterns · Multi-agent coordination
-
-#### 🤖 RAG Assistant (`Projects/Rag-assistant`)
-- Conversational AI assistant with persistent multi-turn memory and document grounding
-- Tool-augmented agent: document lookup, summarization, cross-reference, contextual Q&A
-- FastAPI backend with Dockerized deployment
-
-#### 📒 Notebooks — Agentic Internals
-- Embedding strategy comparisons: mean pooling vs CLS token vs instruction-tuned models
-- Chunking experiments: fixed-size vs semantic vs recursive character splitting
-- Retrieval evaluation benchmarks: MRR, NDCG, Recall@k across strategies
-- **ReAct loop from scratch** — plan → act → observe → reflect implementation with worked examples
-
-#### 📖 Docs — Architecture & Engineering Reference
-- Agentic design patterns: ReAct, Plan-and-Execute, Reflexion
-- Production considerations: memory management, tool safety, latency budgets, cost control
-- LLM hallucination mitigation strategies and evaluation framework comparisons
-
----
-
 ### 🧑‍⚕️ [Skin Disease Detection System](https://github.com/Rushikesh-hub/Skin_Disease_Analysis)
 *Deep Learning · ResNet152 · Medical CV · Tkinter GUI*
 
